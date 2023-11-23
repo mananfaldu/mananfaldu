@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mananfaldu
 - 👀 I’m interested in development
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mananfaldu8@gmail.com
 
